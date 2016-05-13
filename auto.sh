@@ -1,7 +1,7 @@
 # NOTE there is no input checking, since I made this for myself I didn't bother to include it. 
 #TODO add a long-ish delay after a set amount of actions . maybe 3-5 minutes after 150 actions. i.e. fake afk.
-#TODO ask inbetween sleep intervals if I want to sleep for a set amount of time or sleep until told to stop. 
-#TODO ask for window to send input into. 
+#TODO send input to multiple windows at the same time. Or at least seemingly at the same time.
+
 clicker(){
 
     while true;
